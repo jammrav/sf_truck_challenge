@@ -1,0 +1,26 @@
+  <style>
+  p {
+    margin: 0;
+    color: blue;
+  }
+  div,p {
+    margin-left: 10px;
+  }
+  span {
+    color: red;
+  }
+  .container{overflow:hidden; width:100%;border:1}
+  .row
+    {
+        display: table-row;
+    }
+    .cell
+    {
+        display: table-cell;
+        
+    }
+.name{width:30%; float:left;}
+.address{width:50%; float:left; }
+.type{width:10%; float:left;}
+#cell1{float:left;}
+  </style>
